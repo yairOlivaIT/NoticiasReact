@@ -1,0 +1,11 @@
+.a{
+    text-align: center;
+    width: 100%;
+}
+
+@media (max-width:275px){
+    .a{
+        text-align: center;
+        width: 100%;
+    }
+}
